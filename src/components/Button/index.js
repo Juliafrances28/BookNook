@@ -7,7 +7,9 @@ function Button(props) {
       onClick={props.onClick}
       className={`button ${props["data-value"]}`}
       data-value={props["data-value"]}
-    />
+    >
+      Amazon.com
+    </button>
   );
 }
 
