@@ -5,11 +5,11 @@ import Row from "../components/Row/index";
 import Button from "../components/Button/index";
 import Header from "../components/Header/index";
 import Card from "../components/Card/index";
+
 import "./style.css";
 
 // class Books extends React.Component() {
-// render() {
-
+//  render() {
 function Books() {
   return (
     <div>
@@ -62,6 +62,6 @@ function Books() {
     </div>
   );
 }
-// } use this when using the the other function choice.
+// }
 
 export default Books;
