@@ -5,7 +5,6 @@ import Row from "../components/Row/index";
 import Button from "../components/Button/index";
 import Header from "../components/Header/index";
 import Card from "../components/Card/index";
-
 import "./style.css";
 
 // class Books extends React.Component() {
@@ -16,11 +15,13 @@ function Books() {
       <Container>
         <Row>
           <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
+            <div>
+              <img
+                src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+                className="book"
+                alt="book"
+              />
+            </div>
             <Header></Header>
             <Button></Button>
           </Card>
@@ -28,11 +29,13 @@ function Books() {
 
         <Row>
           <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
+            <div>
+              <img
+                src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+                className="book"
+                alt="book"
+              />
+            </div>
             <Header></Header>
             <Button></Button>
           </Card>
@@ -40,11 +43,13 @@ function Books() {
 
         <Row>
           <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
+            <div>
+              <img
+                src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+                className="book"
+                alt="book"
+              />
+            </div>
             <Header></Header>
             <Button></Button>
           </Card>
@@ -52,60 +57,13 @@ function Books() {
 
         <Row>
           <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
-            <Header></Header>
-            <Button> </Button>
-          </Card>
-        </Row>
-      </Container>
-      <Container>
-        <Row>
-          <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
-            <Header></Header>
-            <Button></Button>
-          </Card>
-        </Row>
-
-        <Row>
-          <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
-            <Header></Header>
-            <Button></Button>
-          </Card>
-        </Row>
-
-        <Row>
-          <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
-            <Header></Header>
-            <Button></Button>
-          </Card>
-        </Row>
-
-        <Row>
-          <Card>
-            <img
-              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
-              className="book"
-              alt="book"
-            />
+            <div>
+              <img
+                src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+                className="book"
+                alt="book"
+              />
+            </div>
             <Header></Header>
             <Button> </Button>
           </Card>

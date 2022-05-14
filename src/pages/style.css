@@ -1,28 +1,9 @@
-/* This property references the florida/art image in the About page. */
-.art {
-  display: block;
-  margin: 0 auto;
-  padding: 20px;
-  border-radius: 50px;
-  width: 40%;
-  float: left;
-}
-
 
 .book {
   margin: 0 auto;
   padding: 20px;
   width: 50%
 }
-
-
-
-
-
-
-
-
-
 
 
 
