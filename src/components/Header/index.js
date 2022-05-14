@@ -4,8 +4,8 @@ import "./style.css";
 function Header() {
   return (
     <header className="header">
-      <h1> By The Book </h1>
-      <h2> Jasmine Guillory </h2>
+      <h5> By The Book </h5>
+      <h5> Jasmine Guillory </h5>
     </header>
   );
 }
