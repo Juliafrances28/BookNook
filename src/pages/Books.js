@@ -25,6 +25,7 @@ function Books() {
             <Button></Button>
           </Card>
         </Row>
+
         <Row>
           <Card>
             <img
@@ -36,6 +37,7 @@ function Books() {
             <Button></Button>
           </Card>
         </Row>
+
         <Row>
           <Card>
             <img
@@ -47,6 +49,20 @@ function Books() {
             <Button></Button>
           </Card>
         </Row>
+
+        <Row>
+          <Card>
+            <img
+              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+              className="book"
+              alt="book"
+            />
+            <Header></Header>
+            <Button> </Button>
+          </Card>
+        </Row>
+      </Container>
+      <Container>
         <Row>
           <Card>
             <img
@@ -56,12 +72,47 @@ function Books() {
             />
             <Header></Header>
             <Button></Button>
+          </Card>
+        </Row>
+
+        <Row>
+          <Card>
+            <img
+              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+              className="book"
+              alt="book"
+            />
+            <Header></Header>
+            <Button></Button>
+          </Card>
+        </Row>
+
+        <Row>
+          <Card>
+            <img
+              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+              className="book"
+              alt="book"
+            />
+            <Header></Header>
+            <Button></Button>
+          </Card>
+        </Row>
+
+        <Row>
+          <Card>
+            <img
+              src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+              className="book"
+              alt="book"
+            />
+            <Header></Header>
+            <Button> </Button>
           </Card>
         </Row>
       </Container>
     </div>
   );
 }
-// }
 
 export default Books;
