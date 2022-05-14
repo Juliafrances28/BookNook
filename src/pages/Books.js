@@ -7,14 +7,12 @@ import Header from "../components/Header/index";
 import Card from "../components/Card/index";
 import "./style.css";
 
-// class Books extends React.Component() {
-//  render() {
 function Books() {
   return (
     <div>
       <Container>
-        <Row>
-          <Card>
+        <Card>
+          <Row>
             <div>
               <img
                 src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
@@ -24,11 +22,11 @@ function Books() {
             </div>
             <Header></Header>
             <Button></Button>
-          </Card>
-        </Row>
+          </Row>
+        </Card>
 
-        <Row>
-          <Card>
+        <Card>
+          <Row>
             <div>
               <img
                 src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
@@ -38,11 +36,11 @@ function Books() {
             </div>
             <Header></Header>
             <Button></Button>
-          </Card>
-        </Row>
+          </Row>
+        </Card>
 
-        <Row>
-          <Card>
+        <Card>
+          <Row>
             <div>
               <img
                 src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
@@ -52,11 +50,11 @@ function Books() {
             </div>
             <Header></Header>
             <Button></Button>
-          </Card>
-        </Row>
+          </Row>
+        </Card>
 
-        <Row>
-          <Card>
+        <Card>
+          <Row>
             <div>
               <img
                 src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
@@ -66,11 +64,52 @@ function Books() {
             </div>
             <Header></Header>
             <Button> </Button>
-          </Card>
-        </Row>
+          </Row>
+        </Card>
+
+        <Card>
+          <Row>
+            <div>
+              <img
+                src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+                className="book"
+                alt="book"
+              />
+            </div>
+            <Header></Header>
+            <Button></Button>
+          </Row>
+        </Card>
+
+        <Card>
+          <Row>
+            <div>
+              <img
+                src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+                className="book"
+                alt="book"
+              />
+            </div>
+            <Header></Header>
+            <Button></Button>
+          </Row>
+        </Card>
+
+        <Card>
+          <Row>
+            <div>
+              <img
+                src="https://images-na.ssl-images-amazon.com/images/I/81dvRHsl2KL.jpg"
+                className="book"
+                alt="book"
+              />
+            </div>
+            <Header></Header>
+            <Button></Button>
+          </Row>
+        </Card>
       </Container>
     </div>
   );
 }
-
 export default Books;
