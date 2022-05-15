@@ -1,12 +1,9 @@
 import React from "react";
 import Container from "../components/Container/index";
-// import Row from "../components/Row/index";
-// import Image from "../components/image/index";
 import Button from "../components/Button/index";
 import Header from "../components/Header/index";
 import Card from "../components/Card/index";
 import "./style.css";
-import Wrapper from "../components/Wrapper/index";
 
 class Books extends React.Component {
   render() {

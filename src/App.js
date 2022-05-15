@@ -1,15 +1,21 @@
 import React from "react";
 
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Books from "./pages/Books";
+import Navbar from "./components/Navbar/index";
+import Reading from "./pages/Reading";
 
 function App() {
   return (
     <Router>
       <div>
-        <Route exact path="/" component={Books} />
-        <Route exact path="/BookNook/" component={Books} />
+        <Navbar />
+        <Switch>
+          <Route exact path="/" component={Reading} />
+          <Route exact path="/BookNook" component={Reading} />
+          <Route exact path="/Books" component={Books} />
+        </Switch>
       </div>
     </Router>
   );
