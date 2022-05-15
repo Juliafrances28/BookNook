@@ -16,11 +16,11 @@ After this I was able to move along faster.  I worked on the Books.js adding com
 I always make CSS changes throughout a project to check the implementation and get the best results, the last step was to add the grid layout CSS to generate multiple rows. I learned about using the repeat property as a method to generate multiple rows and columns.
 
 
-Repo link
+## Repo link
 
 https://github.com/Juliafrances28/BookNook
 
-Deployed link
+## Deployed link
 
 https://booknook28.herokuapp.com/
 
