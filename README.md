@@ -1,6 +1,6 @@
 # BookNook
  
-Disclaimer: I know how to make a regular Readme and plan to change this, after it is reviewed, I am using this as a space to explain my thinking.  Also, each git commit has specific comments to explain this upload. 
+Disclaimer: I know how to make a regular Readme and plan to change this, after it is reviewed, I am temporarily using this as a space to explain my thinking throughout the project.  Also, each git commit has specific comments to explain the upload. 
 
 
 I decided to implement a product details page and started off creating a repo in GitHub.  I am avid reader, so product page is all about books. The site name is bookNook. The first step of the process was to run “npx create-react-app my app”. This didn’t work for me because my node.js version was outdated.  I found that changing this proved to be complicated. 
