@@ -1,4 +1,4 @@
-##BookNook 
+# BookNook
  
 Disclaimer: I know how to make a regular Readme and plan to change this, after it is reviewed, I am using this as a space to explain my thinking.  Also, each git commit has specific comments to explain this upload. 
 
