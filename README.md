@@ -21,7 +21,7 @@
    To run the site off your local machine use the following command: npm run start
 
   ## Usage 
-  To although the site visitor to learn about some great authors and be redirected to purchase a book.  
+  To although the site visitor to learn about some great authors, I will be adding other authors to the site, and be redirected to purchase a book.  
   
   
   ## license 
@@ -50,6 +50,7 @@ https://github.com/Juliafrances28/BookNook
 
 https://booknook28.herokuapp.com/
 
-![Screen Shot 2022-05-15 at 3 16 44 PM](https://user-images.githubusercontent.com/67694214/168490075-8b358142-9cef-4978-808b-74a0acbbfa10.png)
+![Screen Shot 2022-05-24 at 8 46 35 PM](https://user-images.githubusercontent.com/67694214/170154893-bb5f65ef-b8a2-4c6b-9862-981ec8433937.png)
+
 
 
