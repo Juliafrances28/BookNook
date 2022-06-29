@@ -11,7 +11,7 @@
      * [License](#License)
      
   ## Description
-  To make a react product catolog.  
+  To make a react product catalog.  
 
   ## Installation
   First, npm create-react-app my-app 
